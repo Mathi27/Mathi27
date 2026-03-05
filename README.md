@@ -21,6 +21,7 @@ I work across **hardware, firmware, software, AI/ML, and infrastructure**, and t
 | **Named Entity Recognition** | A context-aware Named Entity Recognition (NER) system for detecting and sanitizing Personally Identifiable Information (PII) in unstructured text logs using fine-tuned DistilBERT. | [Repo](https://github.com/Mathi27/neural-pii-redaction-pipeline) |
 | **Java-Core-to-Advanced** | A structured learning repository that goes beyond standard tutorials to teach the internal mechanics and architectural thinking behind Java code. | [Repo](https://github.com/Mathi27/Java-Core-to-Advanced) |
 | **Chip_Design_Roadmap** | A structured repository reflecting your lowest-level systems engineering foundation, focusing on hardware and embedded systems roadmaps. | [Repo](https://github.com/Mathi27/Chip_Design_Roadmap) |
+| **VLSI Opensource Tools Install Master Script** | A Single Repo contains the VLSI flow (1.Semi Custom , 2. Full Custom) and script to install various open-source tools for VLSI design, including Yosys, OpenROAD, Magic, KLayout, and NGspice. | [Repo](https://github.com/Mathi27/vlsi-software-) |
 ---
 
 ---
