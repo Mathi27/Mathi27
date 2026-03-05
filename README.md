@@ -3,10 +3,6 @@
 
 I am an engineer focused on building **complete systems**.
 
-Not isolated models.  
-Not standalone code.  
-Not one-off hardware prototypes.
-
 I work across **hardware, firmware, software, AI/ML, and infrastructure**, and take ideas from **concept to production** with an emphasis on correctness, scalability, and long-term maintainability.
 
 ---
