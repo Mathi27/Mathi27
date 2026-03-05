@@ -10,6 +10,20 @@ Not one-off hardware prototypes.
 I work across **hardware, firmware, software, AI/ML, and infrastructure**, and take ideas from **concept to production** with an emphasis on correctness, scalability, and long-term maintainability.
 
 ---
+## PROJECT HIGHLIGHTS
+
+| Project Name | Description | Link |
+| :--- | :--- | :--- |
+| **ErrorHunter** | A popular, beginner-friendly bugfix challenge repository that helps developers learn Python debugging and open-source contribution through test-driven development. | [Repo](https://github.com/Mathi27/ErrorHunter) |
+| **PDF_Spool_Optimizer** |A Python CLI utility that rasterizes and compresses complex PDFs to eliminate print spooling bottlenecks. | [Repo](https://github.com/Mathi27/pdf-spool-optimizer) |
+| **BERT_QA_Engine** | Trained Transformer (Fine Tuned) Model | [Repo](https://github.com/Mathi27/BERT_QA_Engine) |
+| **Advanced Object Tracking & Detection in Video Streans** | A PyTorch implementation of an advanced pedestrian tracking pipeline on the MOT20 dataset. Features a fine-tuned Faster R-CNN (ResNet-50-FPN) detector coupled with an Adaptive Kalman Filter and Temporal Consistency checks for robust tracking in crowded scenes. | [Repo](https://github.com/Mathi27/MOT20-RCNN-Pipeline) |
+| **Named Entity Recognition** | A context-aware Named Entity Recognition (NER) system for detecting and sanitizing Personally Identifiable Information (PII) in unstructured text logs using fine-tuned DistilBERT. | [Repo](https://github.com/Mathi27/neural-pii-redaction-pipeline) |
+| **Java-Core-to-Advanced** | A structured learning repository that goes beyond standard tutorials to teach the internal mechanics and architectural thinking behind Java code. | [Repo](https://github.com/Mathi27/Java-Core-to-Advanced) |
+| **Chip_Design_Roadmap** | A structured repository reflecting your lowest-level systems engineering foundation, focusing on hardware and embedded systems roadmaps. | [Repo](https://github.com/Mathi27/Chip_Design_Roadmap) |
+---
+
+---
 
 ## Engineering Background
 
